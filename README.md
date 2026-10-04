@@ -137,3 +137,7 @@ Built on [LeRobot](https://github.com/huggingface/lerobot),
 and [LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO). The ticket
 intervention is from Patil et al., *You've Got a Golden Ticket: Improving
 Generative Robot Policies With A Single Noise Vector* (2026).
+
+## License
+
+Apache-2.0. See [LICENSE](LICENSE).
