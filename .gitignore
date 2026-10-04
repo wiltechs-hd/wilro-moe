@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.DS_Store
+outputs/
+tickets/
+*_tickets/
+failed_rollouts/
+*.safetensors
+*.npz
+*.npy
+*.json
+!src/**/*.json
+wandb/
+.ipynb_checkpoints/
